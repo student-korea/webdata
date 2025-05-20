@@ -1,0 +1,7 @@
+pip install jupyter
+pip install pandas
+pip install matplotlib
+pip install xlrd
+pip install openpyxl
+pip install beautifulsoup4
+pip install lxml
